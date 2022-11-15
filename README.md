@@ -1,5 +1,5 @@
 # Blooket-Cheats-Experimental
-Experimental Blooket Cheats, may not be safe for online use. These cheats should be only use in solo sessions.
+Experimental Blooket Cheats, may not be safe for online use. These cheats should be only used in solo sessions.
 
 # How to use these scripts?
 
